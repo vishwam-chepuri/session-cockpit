@@ -1,0 +1,7 @@
+{
+  "name": "session-cockpit",
+  "displayName": "Cockpit",
+  "version": "0.1.0",
+  "description": "Side pane for Claude Code: pending items, session steps, subagents, changes, stuck detection, 24h digest",
+  "author": { "name": "Vishwam Chepuri" }
+}

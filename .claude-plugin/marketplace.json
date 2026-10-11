@@ -1,0 +1,6 @@
+{
+  "name": "vishwam-plugins",
+  "description": "Vishwam's Claude Code plugins",
+  "owner": { "name": "Vishwam Chepuri" },
+  "plugins": [{ "name": "session-cockpit", "source": "./" }]
+}
